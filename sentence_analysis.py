@@ -21,7 +21,7 @@ print("the number of upper case characters is:")
 print(upcount)
 
 #How to count the special characters in a sentence
-specials = ['!', ',', " \ ", ";", " \ ", ".", "-", "?"]
+specials = ['!', ',', " \ ", ";", " \ ", ".", "-", "?", "*", "(", ")"]
 special_count = 0
 
 for k in user_input:
